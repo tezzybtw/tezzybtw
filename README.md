@@ -9,8 +9,8 @@
 
 UE4 / UE5 Modder
 
-- Modder At Vynx (25k+) → https://discord.gg/vynxzy
-- Modder At Ambient (1k+) → https://discord.gg/ambientfn
+- Will Be Modder At Vynx (25k+) → https://discord.gg/vynxzy
+- Ex Modder At Ambient (1k+) → https://discord.gg/ambientfn
 - Owner / Ex Modder At Fate (2k+) → https://discord.gg/fatefn
 - Ex Modder At Exal (5k+) → https://discord.gg/exal
 - Ex Modder At Axion (600) → https://discord.gg/axionfn
