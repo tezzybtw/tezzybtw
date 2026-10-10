@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Tezzy
 
 ---
 ![Github Stats](https://github-stats-alpha.vercel.app/api?username=tezzybtw&cc=000&tc=fff&ic=fff&bc=000)
