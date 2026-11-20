@@ -12,7 +12,7 @@ UE4 / UE5 Modder
 - Modder At VYNX (26k+) → https://discord.gg/vynxzy
 - Modder At Relive (600+) → https://discord.gg/relivemp
 - Ex Modder At Ambient (1k+) → https://discord.gg/ambientfn
-- Ex Modder At Old Pulse
+- Ex Modder At Pulse V1
 - Ex Modder At Fate (2k+) → https://discord.gg/fatefn
 - Ex Modder At Exal (5k+) → https://discord.gg/exal
 - Ex Modder At Axion (600) → https://discord.gg/axionfn
